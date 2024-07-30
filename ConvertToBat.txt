@@ -1,0 +1,3 @@
+@echo off
+python "C:\...... path to the file"
+pause
